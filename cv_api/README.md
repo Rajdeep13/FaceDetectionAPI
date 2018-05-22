@@ -8,4 +8,4 @@ Create a simple Face Detection API using
 3. cv_api/manage.py				File is used to run Python API server.															Run below command "python manage.py runserver" to run the server This will sart your API server endpoint at "http://127.0.0.1:8000/face_detection/detect/"
 4. cv_api/test.py 				File use to test the API
 
-### Refer this [URL](https://www.pyimagesearch.com/2015/05/11/creating-a-face-detection-api-with-python-and-opencv-in-just-5-minutes/) for more details.
+#### Refer this [URL](https://www.pyimagesearch.com/2015/05/11/creating-a-face-detection-api-with-python-and-opencv-in-just-5-minutes/) for more details.
