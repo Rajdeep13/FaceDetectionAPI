@@ -6,8 +6,8 @@ Create a simple Face Detection API using
 - **cv_api/face_detector/view.py**	Files have all the logic basically cv2 function for face detection
 - **cv_api/manage.py**				File is used to run Python API server.Run below command to run the server This will sart your API server endpoint at "http://127.0.0.1:8000/face_detection/detect/"
 - **cv_api/test.py** 				File use to test the API. Run below command to test this API.
-- **commands to run server and test it**
 
+#### commands to run server and test it
 ```
 python manage.py runserver
 python test.py
